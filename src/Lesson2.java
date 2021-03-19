@@ -90,6 +90,7 @@ public class Lesson2 {
             System.out.println(num);
 
         }
+        /*for(инициализация счетчика;условие;инктемент)*/
 
 
 
